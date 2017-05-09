@@ -42,4 +42,4 @@ K    silhouette_score
 21 => 0.117656879
 
 
-
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
