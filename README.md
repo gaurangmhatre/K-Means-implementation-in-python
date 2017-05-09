@@ -42,4 +42,4 @@ K    silhouette_score
 21 => 0.117656879
 
 
-![alt text](https://ibb.co/kBOhi5)
+![alt text](http://oi65.tinypic.com/wjyucz.jpg)
