@@ -27,4 +27,19 @@ values of items in the inside each cluster.
 8. Write the results to format.dat
 
 
+	Silhouette Score
+
+K    silhouette_score
+3 => 0.005388888
+5 => 0.005627434
+7 => 0.00901902
+9 => 0.14902732
+11 => 0.07564534
+13 => 0.08124365
+15 => 0.077865644
+17 => 0.147676534
+19 => 0.104322456
+21 => 0.117656879
+
+
 
