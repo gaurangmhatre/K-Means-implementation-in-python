@@ -1,4 +1,4 @@
-# HomeWork6-239-v2
+# K-Means implementation in python
 
 The objectives of this repo are the following:
 
